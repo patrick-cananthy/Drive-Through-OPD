@@ -1,0 +1,7 @@
+{
+  "name": "Drive-Through OPD Ghana",
+  "description": "A responsive, role-based Drive-Through OPD management system for Ghanaian healthcare facilities, facilitating rapid patient processing from vehicle to pharmacy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
